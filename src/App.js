@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          co tam elo
+          co tam eloo
         </a>
       </header>
     </div>
